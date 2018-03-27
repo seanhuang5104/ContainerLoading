@@ -1,7 +1,8 @@
+
 # ContainerLoading
 A container loading simulator using backtracking method and simulated items
 
-Features:
+Features :
 1.To shorten the search time, smaller item will be ignore and assigned with first location found.(works better if items are sorted.)
 2.Program will start ignore items of small volumn if the fill rate not imporved.
 
